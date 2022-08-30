@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🧠 About Me:
 He / Him Called Arian<br>17 Y.O | Kerman, Iran<br>Fucll Stack Web Developer <br>Discord Developer & Configur
 
 
@@ -12,5 +12,5 @@ He / Him Called Arian<br>17 Y.O | Kerman, Iran<br>Fucll Stack Web Developer <br>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aryiaan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### 📜  Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
